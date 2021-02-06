@@ -7,7 +7,7 @@ call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'tpope/vim-fugitive'
-Plugin 'tpope/unimpaired'
+Plugin 'tpope/vim-unimpaired'
 Plugin 'godlygeek/tabular'
 "Plugin 'christoomey/vim-tmux-navigator'
 "Plugin 'mileszs/ack.vim'
